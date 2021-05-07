@@ -152,7 +152,7 @@
           p <strong>Recolección y verificación de la información:</strong> en la medida de lo posible, los auditores deben considerar si la información proporcionada es suficiente evidencia objetiva para demostrar conformidad de los requisitos. <br><br> Para esto tenga en cuenta que la información cumpla con los siguientes ítem:
           .row.m-5
             .col-sm-6.col-lg-3.mb-4.mb-lg-0
-              .tarjeta.p-3.background-azulclaro-3
+              .tarjeta.tarjeta-100.p-3.background-azulclaro-3
                 .row.justify-content-center.mb-3
                   .col-7
                     figure
@@ -162,7 +162,7 @@
                 p.text-small Todo el contenido esperado esté incluido en la información documentada.
 
             .col-sm-6.col-lg-3.mb-4.mb-lg-0
-              .tarjeta.p-3.background-azulclaro-3
+              .tarjeta.tarjeta-100.p-3.background-azulclaro-3
                 .row.justify-content-center.mb-3
                   .col-7
                     figure
@@ -172,7 +172,7 @@
                 p.text-small El contenido está conforme respecto a otras fuentes confiables tales como normas o regulaciones
 
             .col-sm-6.col-lg-3.mb-4.mb-sm-0
-              .tarjeta.p-3.background-azulclaro-3
+              .tarjeta.tarjeta-100.p-3.background-azulclaro-3
                 .row.justify-content-center.mb-3
                   .col-7
                     figure
@@ -182,7 +182,7 @@
                 p.text-small La información documentada es consistente individualmente y con otros documentos relacionados.
 
             .col-sm-6.col-lg-3
-              .tarjeta.p-4.background-azulclaro-3
+              .tarjeta.tarjeta-100.p-4.background-azulclaro-3
                 .row.justify-content-center.mb-3
                   .col-7
                     figure
