@@ -6,18 +6,29 @@
     .titulo-principal
       .titulo-principal__numero
         .h3 1
-      .h3 Tema 1
+      .h3 Auditoria
+
+    .bloque-texto-a.p-4.p-md-5.mb-5
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-4.mb-4.mb-lg-0
+          img(src='@/assets/curso/auditoria_titulo.svg', alt='Imagen que representa el concepto de auditoria')
+        .col-lg-7
+          .bloque-texto-a__texto.p-4
+            p En la implementación de Buenas Prácticas Agrícolas y en la mayoría de sistemas de aseguramiento de calidad hay que adelantar actividades de auditoría que nos ayuden a establecer el grado de cumplimiento frente a los estándares normativos para poder optar a una certificación.
+
 
     .titulo-segundo
       #t_1_1.h4 1.1   Concepto de auditoría
 
-    .row
-      .col-md.p-5
-        p Proceso sistemático, independiente y documentado para obtener evidencias  y evaluarlas de manera objetiva, con el fin de determinar el grado en que se cumplen los criterios de auditoría.
-      .col-md-7.p-5
-        img(src='@/assets/curso/concepto_auditoria.svg', alt='Imagen que representa el concepto de auditoria', style='height: 320px;')
+    .cajon--azul.p-4.mb-5.mb-lg-0
+      .row.align-items-center
+        .col-md-9
+          p Proceso sistemático, independiente y documentado para obtener evidencias  y evaluarlas de manera objetiva, con el fin de determinar el grado en que se cumplen los criterios de auditoría.
+        .col-md-3
+          img(src='@/assets/curso/concepto_auditoria.svg', alt='Imagen que representa el concepto de auditoria', style='height: 180px')
 
-    .tarjeta--container.row.mb-1
+
+    .tarjeta--container.row.mb-1.mt-5
       .col-md.tarjeta.tarjeta--verdeclaro.p-5
         .row.justify-content-center.mb-4
           .col-6

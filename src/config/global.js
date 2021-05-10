@@ -122,7 +122,7 @@ export default {
         cargo: 'Soporte organizacional',
       },
       {
-        nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
+        nombre: ['Angelo Andres Reina Montañez', 'Eulises Orduz Amezquita'],
         cargo: 'Diseño web y Producción Audiovisual',
       },
       {
