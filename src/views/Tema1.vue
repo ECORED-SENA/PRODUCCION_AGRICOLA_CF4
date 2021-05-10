@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         .h3 1
-      .h3 Auditoria
+      .h3 Auditoría
 
     .bloque-texto-a.p-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
