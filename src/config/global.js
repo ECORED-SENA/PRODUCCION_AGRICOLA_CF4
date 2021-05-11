@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'Con este componente formativo se pretende proporcionar una visión general de las etapas de auditoría para asegurar la calidad en la implementación de Buenas Prácticas Agrícolas. En este se precisan los tipos de auditoría y la metodología para su aplicación.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
   menuPrincipal: {
     menu: [
@@ -103,13 +103,33 @@ export default {
         nombre: 'Tania Yaneth Ramírez Benítez',
         cargo: 'Soporte organizacional',
         centro: 'CENTRO DE COMERCIO Y SERVICIO',
-        regional: 'Regional Tolima',
+        regional: 'Regional Santander',
       },
       {
-        nombre: 'María Isabel Román Rueda',
-        cargo: 'Revisora de estilo',
-        centro: 'Centro Industrial Del Diseño Y La Manufactura',
-        regional: 'Regional Santander',
+        nombre: 'Claudia Patricia Sánchez Peñaranda',
+        cargo: 'Instructura',
+        centro: 'Agrosena',
+      },
+      {
+        nombre: 'Fredy Orlando Ibáñez Morales ',
+        cargo: 'Instructor',
+        centro: 'Agroambiental',
+      },
+      {
+        nombre: 'Yanet Bolaños Botina',
+        cargo: 'Instructura',
+        centro: 'Agroambiental',
+      },
+      {
+        nombre: 'Alix Cecilia Chinchilla Rueda',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Gestión Industrial',
+      },
+      {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñadora y evaluadora instruccional',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+        regional: 'Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -122,7 +142,15 @@ export default {
         cargo: 'Soporte organizacional',
       },
       {
-        nombre: ['Angelo Andres Reina Montañez', 'Eulises Orduz Amezquita'],
+        nombre: 'María Natalia Maldonado Delgadoz',
+        cargo: 'Diseño Web & Producción Audiovisual',
+      },
+      {
+        nombre: 'Luis Gabriel Urueta Alvarez',
+        cargo: 'Desarrollo front-end',
+      },
+      {
+        nombre: ['Angelo Andres Reina Montañez', 'Zuleidy Maria Ruiz Torres'],
         cargo: 'Diseño web y Producción Audiovisual',
       },
       {
@@ -137,7 +165,7 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
+        cargo: 'Validación de recursos',
         centro: 'Centro de comercio y servicios',
         regional: 'Regional Tolima',
       },

@@ -110,11 +110,11 @@
     img(src='@/assets/curso/mapa_conceptual_1.svg', alt='Etapas de la auditoria')
 
     h5.mt-5.mb-5 Etapas de la auditoria
-    img(src='@/assets/curso/mapa_mental_1.png', alt='Etapas de la auditoria')
+    img(src='@/assets/curso/mapa_mental_1.svg', alt='Etapas de la auditoria')
 
     h5.mt-5.mb-2 Inicio de la auditoría
     .cajon--azul.p-4.mb-5.mb-lg-0
-      p <strong>Establecimiento del contacto inicial con el auditado:</strong> el líder del equipo auditor debe asegurarse de que se hace contacto inicial con el auditado para:
+      p.mb-4 <strong>Establecimiento del contacto inicial con el auditado:</strong> el líder del equipo auditor debe asegurarse de que se hace contacto inicial con el auditado para:
       ul.lista-ul--color
         li
           i.fas.fa-file-alt
@@ -132,7 +132,7 @@
           i.fas.fa-file-alt
           | Realizar acuerdos para la auditoría, incluyendo el cronograma; determinar cualquier acuerdo específico en la ubicación en lo referente a acceso, salud, seguridad, confidencialidad.
     .cajon--rojo.p-4.mb-5.mb-lg-0.mt-4
-      p <strong>Preparación de actividades:</strong> se deben realizar las siguientes tareas.
+      p.mb-4 <strong>Preparación de actividades:</strong> se deben realizar las siguientes tareas.
       ul.lista-ul--color
         li
           i.fas.fa-file-alt
@@ -220,7 +220,7 @@
         .lista-ol--cuadro__vineta
           span c
         .col-12
-          p(style="width: 100%;") <strong>Generación de hallazgos:</strong> los hallazgos de auditoría pueden indicar la conformidad o no conformidad respecto a los criterios de auditoría. Cuando se determine los hallazgos de la auditoría se debe considerar lo siguiente:
+          p.mb-4(style="width: 100%;") <strong>Generación de hallazgos:</strong> los hallazgos de auditoría pueden indicar la conformidad o no conformidad respecto a los criterios de auditoría. Cuando se determine los hallazgos de la auditoría se debe considerar lo siguiente:
           div
             ul.lista-ul--color
               li
@@ -295,7 +295,7 @@
       hr
 
     .cajon--azul.p-4.mb-5.mb-lg-0
-      p <strong>Preparación de informe:</strong> el informe de la auditoría debe llevar como mínimo:
+      p.mb-4 <strong>Preparación de informe:</strong> el informe de la auditoría debe llevar como mínimo:
       ul.lista-ul--color
         li
           i.fas.fa-file-alt
@@ -330,7 +330,7 @@
       br
       p La evaluación es necesaria para poder observar las anomalías que han surgido en el tiempo de ejecución, para lo cual se recomienda realizar un informe sobre la evaluación, indicando las ventajas y desventajas de los resultados obtenidos del plan de mejora.
     .cajon--azul.p-4.mb-5.mb-lg-0.mt-4
-      p <strong>Registro de acciones correctivas:</strong>
+      p.mb-4 <strong>Registro de acciones correctivas:</strong>
       ul.lista-ul--color
         li
           i.fas.fa-file-alt
