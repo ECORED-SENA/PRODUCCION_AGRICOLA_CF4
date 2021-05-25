@@ -23,7 +23,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Auditoría',
+        titulo: 'Auditorías',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -102,7 +102,7 @@ export default {
       {
         nombre: 'Tania Yaneth Ramírez Benítez',
         cargo: 'Soporte organizacional',
-        centro: 'CENTRO DE COMERCIO Y SERVICIO',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
@@ -219,7 +219,7 @@ export default {
     {
       termino: 'Evidencia objetiva',
       significado:
-        'Datos que soportan la existencia o veracidad de algo.\n\nNota: puede ser obtenida por medio de observación, medición, prueba o por otros medios.\n\nNota: para el propósito de la auditoría consiste generalmente en registros, declaraciones de hecho u otro tipo de información relevante para el criterio de la auditoría, y es verificable.',
+        'Datos que soportan la existencia o veracidad de algo.<br>Nota: puede ser obtenida por medio de observación, medición, prueba o por otros medios.<br>Nota: para el propósito de la auditoría consiste generalmente en registros, declaraciones de hecho u otro tipo de información relevante para el criterio de la auditoría, y es verificable.',
     },
     {
       termino: 'Experto técnico',
@@ -259,24 +259,15 @@ export default {
   complementario: [
     {
       texto:
-        'Higuera, P., E., Ávila, C., P., González, M., L., Infante, G., L., & Cabrera, P., D. (2019).  Plan de auditoria para el programa de auditoría interna plan HACCP de la compañía Productos Alimenticios San Simeón. ',
+        'Higuera, P., E., Ávila, C., P., González, M., L., Infante, G., L., & Cabrera, P., D. (2019).  Plan de auditoria para el programa de auditoría interna plan HACCP de la compañía Productos Alimenticios San Simeón. [Trabajo presentado como requisito para optar el título de Ingeniero de Alimentos, Universidad Nacional Abierta y a Distancia - UNAD]. Repositorio institucional UNAD.]',
       tipo: 'Otro',
-      link:
-        'https://repository.unad.edu.co/bitstream/handle/10596/27817/dgcabrerap.pdf?sequence=1&isAllowed=y',
-    },
-    {
-      texto:
-        'Trabajo presentado como requisito para optar el título de Ingeniero de Alimentos, Universidad Nacional Abierta y a Distancia - UNAD]. Repositorio institucional UNAD. ',
-      tipo: 'Otro',
-      link:
-        'https://repository.unad.edu.co/bitstream/handle/10596/27817/dgcabrerap.pdf?sequence=1&isAllowed=y',
+      link: 'downloads/dgcabrerap.pdf',
     },
     {
       texto:
         'ISO 2018. Norma Internacional ISO 19011: 2018. Directrices para la auditoría de los sistemas de gestión. ',
       tipo: 'Otro',
-      link:
-        'https://www.cecep.edu.co/documentos/calidad/norma-iso-19011-2018.pdf',
+      link: 'downloads/norma-iso-19011-2018.pdf',
     },
   ],
 }
