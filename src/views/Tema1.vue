@@ -118,7 +118,7 @@
     h5.mt-5.mb-5 Etapas de la auditoria
     img.w-100.mb-5(src='@/assets/curso/mapa_mental_1.svg', alt='Etapas de la auditoria')
 
-    h5.mb-4 Inicio de la auditoría
+    p.h5.mb-4 Inicio de la auditoría
     .cajon--azul.p-4.mb-5.mb-lg-0
       p.mb-4 <strong>Establecimiento del contacto inicial con el auditado:</strong> el líder del equipo auditor debe asegurarse de que se hace contacto inicial con el auditado para:
       ul.lista-ul--color
