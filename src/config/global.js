@@ -142,20 +142,28 @@ export default {
         cargo: 'Soporte organizacional',
       },
       {
-        nombre: 'María Natalia Maldonado Delgadoz',
-        cargo: 'Diseño Web & Producción Audiovisual',
-      },
-      {
         nombre: 'Luis Gabriel Urueta Alvarez',
         cargo: 'Desarrollo front-end',
       },
       {
-        nombre: ['Angelo Andres Reina Montañez', 'Zuleidy Maria Ruiz Torres'],
-        cargo: 'Diseño web y Producción Audiovisual',
+        nombre: [
+          'Anllelo Andres Reina Montañez',
+          'Camilo Andrés Villamizar Lizcano',
+          'Gilberto Junior Rodríguez Rodríguez',
+          'John Jairo Arciniegas González',
+          'María Carolina Tamayo López',
+          'Wilson Andrés Arenales Cáceres',
+          'Zuleidy Maria Ruiz Torres',
+        ],
+        cargo: 'Diseño Web y Producción Audiovisual',
       },
       {
-        nombre: 'Sergio Omar Camacho',
+        nombre: 'Sergio Omar Camacho Orduz',
         cargo: 'Desarrollo Front-End',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
+        cargo: 'Validación de diseño y contenido',
       },
       {
         centro: 'Centro Industrial del Diseño y la Manufactura',
@@ -165,8 +173,8 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación de recursos',
-        centro: 'Centro de comercio y servicios',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },
     ],
