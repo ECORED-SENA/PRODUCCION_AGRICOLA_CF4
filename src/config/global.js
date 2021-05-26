@@ -217,7 +217,7 @@ export default {
     {
       termino: 'Experto técnico',
       significado:
-        'Persona que provee conocimiento específico o experticia al equipo auditor. ',
+        'Persona que provee conocimiento específico o experticia al equipo auditor. <br> Persona que aporta conocimientos o experiencia específica al equipo auditor (no actúa como auditor).',
     },
     {
       termino: 'Evidencia de auditoría',
@@ -228,11 +228,6 @@ export default {
       termino: 'Evidencia objetiva',
       significado:
         'Datos que soportan la existencia o veracidad de algo.<br>Nota: puede ser obtenida por medio de observación, medición, prueba o por otros medios.<br>Nota: para el propósito de la auditoría consiste generalmente en registros, declaraciones de hecho u otro tipo de información relevante para el criterio de la auditoría, y es verificable.',
-    },
-    {
-      termino: 'Experto técnico',
-      significado:
-        'Persona que aporta conocimientos o experiencia específica al equipo auditor (no actúa como auditor).',
     },
     {
       termino: 'Hallazgos de la auditoría',
@@ -267,7 +262,7 @@ export default {
   complementario: [
     {
       texto:
-        'Higuera, P., E., Ávila, C., P., González, M., L., Infante, G., L., & Cabrera, P., D. (2019).  Plan de auditoria para el programa de auditoría interna plan HACCP de la compañía Productos Alimenticios San Simeón. [Trabajo presentado como requisito para optar el título de Ingeniero de Alimentos, Universidad Nacional Abierta y a Distancia - UNAD]. Repositorio institucional UNAD.]',
+        'Higuera, P., E., Ávila, C., P., González, M., L., Infante, G., L., & Cabrera, P., D. (2019).  Plan de auditoría para el programa de auditoría interna plan HACCP de la compañía Productos Alimenticios San Simeón. [Trabajo presentado como requisito para optar el título de Ingeniero de Alimentos, Universidad Nacional Abierta y a Distancia - UNAD]. Repositorio institucional UNAD.]',
       tipo: 'Otro',
       link: 'downloads/dgcabrerap.pdf',
     },
