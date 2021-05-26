@@ -142,10 +142,6 @@ export default {
         cargo: 'Soporte organizacional',
       },
       {
-        nombre: 'Luis Gabriel Urueta Alvarez',
-        cargo: 'Desarrollo front-end',
-      },
-      {
         nombre: [
           'Anllelo Andres Reina Montañez',
           'Camilo Andrés Villamizar Lizcano',
@@ -155,11 +151,11 @@ export default {
           'Wilson Andrés Arenales Cáceres',
           'Zuleidy Maria Ruiz Torres',
         ],
-        cargo: 'Diseño Web y Producción Audiovisual',
+        cargo: 'Diseño web y Producción audiovisual',
       },
       {
         nombre: 'Sergio Omar Camacho Orduz',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
       },
       {
         nombre: 'Jenny Paola Montillo Gélvez',
